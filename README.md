@@ -5,6 +5,9 @@
 
 Diese Dokumentation ist nach den Aufgaben (1–14) gegliedert. Jede Aufgabe ist in drei Phasen unterteilt. Bitte tragen Sie Ihre Ergebnisse jeweils unter den entsprechenden Abschnitten ein.
 
+## Extra Übungen
+- [iaaspaassaas](/extraübungen/iaaspaassaas.md)
+
 ---
 
 ## Aufgabe 1 – Projektplan erstellen
@@ -19,7 +22,7 @@ gantt
 
     section Vorbereitung
     AWS Instanz vorbereiten :todo, 2025-05-24, 14d
-
+    
 
 
 
