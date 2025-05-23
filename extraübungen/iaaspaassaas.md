@@ -57,8 +57,9 @@
 
 ## 5. Fazit
 
-Die Grafiken sind Grundätzlich sehr ähnlich, jedoch haben sie auch ihre Eigenen eigenscahften.
-- **Grafik 1** ist ideal zur technischen Einordnung und Ressourcenplanung
-- **Grafik 2** ist notwendig für rechtliche, sicherheitsrelevante und strategische Überlegungen
+Beide Grafiken beschäftigen sich mit der Verteilung von Verantwortlichkeiten in verschiedenen Cloud-Betriebsmodellen, setzen aber unterschiedliche Schwerpunkte:
+
+- **Grafik 1** eignet sich hervorragend für die technische Planung und die Definition interner Zuständigkeiten.
+- **Grafik 2** bietet eine wichtige Perspektive auf sicherheits- und compliance-relevante Fragestellungen – besonders bei der Vertragsgestaltung mit Cloud-Anbietern.
 
 ---
