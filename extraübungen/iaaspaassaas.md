@@ -63,3 +63,5 @@ Beide Grafiken beschäftigen sich mit der Verteilung von Verantwortlichkeiten in
 - **Grafik 2** bietet eine wichtige Perspektive auf sicherheits- und compliance-relevante Fragestellungen – besonders bei der Vertragsgestaltung mit Cloud-Anbietern.
 
 ---
+
+![alt text](Herunterladen.jpeg)
